@@ -1,8 +1,6 @@
 # MIT 6.0002 Introduction to Computational Thinking and Data Science
----
-Eric Grimson, John Guttag, and Ana Bell. 6.0002 Introduction to Computational Thinking and Data Science. Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https:ocw.mit.edu). License: [Creative Commons BY-NC-SA.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-------
-## Topics
+
+###Topics
 
 1. Introduction to Optimization Problems
 2. Optimization Problems
@@ -18,4 +16,7 @@ Eric Grimson, John Guttag, and Ana Bell. 6.0002 Introduction to Computational Th
 12. [Clustering](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_12/lecture_12.ipynb)  
 13. [Classification](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_13/lecture_13.ipynb) 
 14. [Classification and Statistical Sins](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_14/lecture_14.ipynb)
+
 ---
+
+Eric Grimson, John Guttag, and Ana Bell. 6.0002 Introduction to Computational Thinking and Data Science. Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https:ocw.mit.edu). License: [Creative Commons BY-NC-SA.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
