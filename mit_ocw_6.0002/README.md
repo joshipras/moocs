@@ -1,6 +1,6 @@
 # MIT 6.0002 Introduction to Computational Thinking and Data Science
 
-###Topics
+### Topics
 
 1. Introduction to Optimization Problems
 2. Optimization Problems
