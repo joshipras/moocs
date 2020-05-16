@@ -8,7 +8,7 @@
 4. Stochastic Thinking
 5. Random Walks
 6. Monte Carlo Simulation
-7. Confidence Intervals
+7. [Confidence Intervals](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_7/lecture_7.ipynb)
 8. [Sampling and Sampling Standard Error](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_8/lecture_8.ipynb)
 9. [Understanding Experimental Data](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_9/lecture_9.ipynb)
 10. [Understanding Experimental Data (contd.)](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_10/lecture_10.ipynb)
