@@ -5,7 +5,7 @@
 1. [Introduction to Optimization Problems](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_1/lecture_1.ipynb)
 2. [Optimization Problems](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_2/lecture_2.ipynb)
 3. [Graph-theoretic models](https://github.com/joshipras/moocs/tree/master/mit_ocw_6.0002/lecture_3)
-4. Stochastic Thinking
+4. [Stochastic Thinking](https://github.com/joshipras/moocs/tree/master/mit_ocw_6.0002/lecture_4)
 5. Random Walks
 6. Monte Carlo Simulation
 7. [Confidence Intervals](https://github.com/joshipras/moocs/blob/master/mit_ocw_6.0002/lecture_7/lecture_7.ipynb)
